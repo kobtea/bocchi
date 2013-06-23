@@ -1,0 +1,8 @@
+Source: bocchi
+Version: 1.0.0
+Section: unknown
+Priority: optional
+Maintainer: kobtea <kobtea@live.jp>
+Package: bocchi
+Architecture: all
+Description: if you type 'bocchi', feel so lonely.
